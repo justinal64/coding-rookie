@@ -7,6 +7,8 @@ cover: ./preview.png
 excerpt: Let's start a blog using Gatsby.
 ---
 
+Three months ago I joined [Ramsey Solutions](https://daveramsey.com) and over the last several months I've heard a lot about journaling, so I decided to create this blog to talk about what I am learning. I hope this blog inspires others to along the way.
+
 I recently built an [Electron](https://electronjs.org/ 'ElectronJS site') app using [create-react-app](https://github.com/facebook/create-react-app 'create-react-app repository'). I didn’t need to muck about with Webpack, or “eject” my app, either. I’ll walk you through how I accomplished this.
 
 I was drawn to the idea of using create-react-app because it hides the webpack configuration details. But my search for existing guides for using Electron and create-react-app together didn’t bear any fruit, so I just dove in and figured it out myself.
